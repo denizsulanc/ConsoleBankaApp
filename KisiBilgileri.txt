@@ -1,0 +1,11 @@
+Hesap No : 1
+Adı soyadı : asd
+Tc No : 45646545645
+Hesap Bakiyesi : 111
+Açılış Tarihi : 20.11.2019 00:00:00
+Vade Başlangıcı : 20.11.2019 00:00:00
+Vade Tipi : aylik
+*********************************************************
+Güncel faizli hesap bakiyesi : 111,0222
+
+

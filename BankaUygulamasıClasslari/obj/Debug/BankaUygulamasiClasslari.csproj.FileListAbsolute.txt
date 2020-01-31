@@ -1,0 +1,13 @@
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasiClasslari.csprojAssemblyReference.cache
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasiClasslari.csproj.CoreCompileInputs.cache
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\bin\Debug\BankaUygulamasıClasslari.exe.config
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\bin\Debug\BankaUygulamasıClasslari.exe
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\bin\Debug\BankaUygulamasıClasslari.pdb
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasıClasslari.exe
+C:\Users\plt3\Desktop\D\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasıClasslari.pdb
+C:\Users\user\Desktop\YAZILIM-DENİZ\Yazılım-Kursu\Yazılım-7.Hafta\GenelBankaUygulaması\BankaUygulamasıClasslari\bin\Debug\BankaUygulamasıClasslari.exe.config
+C:\Users\user\Desktop\YAZILIM-DENİZ\Yazılım-Kursu\Yazılım-7.Hafta\GenelBankaUygulaması\BankaUygulamasıClasslari\bin\Debug\BankaUygulamasıClasslari.exe
+C:\Users\user\Desktop\YAZILIM-DENİZ\Yazılım-Kursu\Yazılım-7.Hafta\GenelBankaUygulaması\BankaUygulamasıClasslari\bin\Debug\BankaUygulamasıClasslari.pdb
+C:\Users\user\Desktop\YAZILIM-DENİZ\Yazılım-Kursu\Yazılım-7.Hafta\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasiClasslari.csprojAssemblyReference.cache
+C:\Users\user\Desktop\YAZILIM-DENİZ\Yazılım-Kursu\Yazılım-7.Hafta\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasıClasslari.exe
+C:\Users\user\Desktop\YAZILIM-DENİZ\Yazılım-Kursu\Yazılım-7.Hafta\GenelBankaUygulaması\BankaUygulamasıClasslari\obj\Debug\BankaUygulamasıClasslari.pdb
